@@ -1,4 +1,4 @@
 ### Hi there 👋
 
-Student of AI
+Student of AI  
 More soon!
