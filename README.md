@@ -2,6 +2,7 @@
 🦋 I am **Sunbreeze**  
 🧑 **18** Years Old  
 🧠 **AI/ML** Student  
+🎨 **UI/UX** Admirer  
 🎵 **Music** Fanatic    
 🎮 **Video-Games** Enjoyer   
 🗨️ Intrigued by **Philosophy**  
