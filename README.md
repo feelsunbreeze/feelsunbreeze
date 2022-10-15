@@ -2,7 +2,7 @@
 🦋 I am **Sunbreeze**  
 🧑 **18** Years Old  
 🧠 **AI** Student   
-🔧 **Reverse-Engineering** Fanatic  
+🔧 **Coding** Fanatic  
 🎵 **Music** Producer    
 🗨️ Lust For **Learning**  
 ## ones-and-zeroes.mpeg
