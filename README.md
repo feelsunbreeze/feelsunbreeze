@@ -1,6 +1,6 @@
 ## hellofriend.mov
-🦋 i am **Sunbreeze**  
-🧑 **19** years old  
+🦋 i am **sunbreeze**  
+🧑 **nineteen** years old  
 🧠 **ai** student   
 🔧 **coding** fanatic  
 🎵 **music** producer    
