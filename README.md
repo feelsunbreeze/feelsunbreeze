@@ -6,8 +6,8 @@
 🎵 **music** producer    
 🗨️ **knowledge** fiend  
 ## ones-and-zeroes.mpeg
-arch//windwows//android  
-c++//python
+️⚙️ arch//windows//android  
+👨‍💻 c++//python
 
 
 ## endgame.avi
