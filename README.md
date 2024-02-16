@@ -6,7 +6,7 @@
 🎵 **music** producer    
 🗨️ **knowledge** fiend  
 ## ones-and-zeroes.mpeg
-arch//windwows//android
+arch//windwows//android  
 c++//python
 
 
